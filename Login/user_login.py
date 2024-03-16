@@ -1,1 +1,6 @@
 print("sample")
+driver = webdriver.Chrome(options=options,service=ChromeService(ChromeDriverManager().install()))
+driver.get("http://64.227.170.125:8080/icleaf/")
+driver.maximize_window()
+driver.find_element(By.ID, "username").send_keys("icadmin")
+driver.find_element(By.ID,"password").send_keys("admin@icleaf")
