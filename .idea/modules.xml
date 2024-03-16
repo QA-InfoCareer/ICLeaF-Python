@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Atmagram/.idea/Atmagram.iml" filepath="$PROJECT_DIR$/../Atmagram/.idea/Atmagram.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/ICLeF.iml" filepath="$PROJECT_DIR$/.idea/ICLeF.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ICLeaF/.idea/ICLeaF.iml" filepath="$PROJECT_DIR$/../ICLeaF/.idea/ICLeaF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/New_ICLeaF.iml" filepath="$PROJECT_DIR$/.idea/New_ICLeaF.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
     </modules>
   </component>
