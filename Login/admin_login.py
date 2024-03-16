@@ -16,3 +16,5 @@ shadow_host_element = driver.find_element(By.XPATH,"//div[@id='root']")
 shadow_root = driver.execute_script("return arguments[0].shadowRoot", shadow_host_element)
 
 print("Loggedin successfully")
+print("Loggedin successfully")
+
